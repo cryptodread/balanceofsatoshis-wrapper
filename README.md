@@ -1,6 +1,6 @@
 # Wrapper for Balance of Satoshis
 
-`balanceofsatoshis` is a Command line tool for working with LND balances.
+`balanceofsatoshis` is a Command Line tool for working with LND balances. This is considered a Power User LND Tool, and is not officially supported by Start9.
 
 ## Dependencies
 
