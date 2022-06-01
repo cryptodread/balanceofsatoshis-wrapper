@@ -1,6 +1,6 @@
 # Wrapper for Balance of Satoshis
 
-`balanceofsatoshis` is a simple, minimal project to serve as a template for creating an app for the Embassy.
+`balanceofsatoshis` is a Command line tool for working with LND balances.
 
 ## Dependencies
 
